@@ -1661,9 +1661,21 @@
 		{
           "name": "Capítulo 1",
           "image": null,
-          "url": "https://geo.dailymotion.com/player.html?video=x89dqo",
+          "url": "https://geo.dailymotion.com/player.html?video=x8w5gku",
           "isHost": true
-        }
+        },
+		{
+          "name": "Capítulo 2",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x8w5gp0",
+          "isHost": true
+        },
+		{
+          "name": "Capítulo 3",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x8w5gra",
+          "isHost": true
+        },
 	  ]
     },
     {
