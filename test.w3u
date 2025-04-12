@@ -1681,6 +1681,12 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9hbipm",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 78",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9hrzng",
+          "isHost": true
         }
 	  ]
     },
