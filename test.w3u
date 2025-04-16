@@ -960,7 +960,8 @@
           "name": "Capítulo 293",
           "image": null,
           "url": "https://richardsignfish.com/e/vsw00rhuxiv0",
-          "isHost": true
+		  "embed": "true",
+          "playInNatPlayer": "false"
         },
 		{
           "name": "Capítulo 294",
