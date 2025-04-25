@@ -997,6 +997,12 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9ifr2m",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 300",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9ihttg",
+          "isHost": true
         }
 	  ]
     },
@@ -1734,6 +1740,18 @@
           "name": "Capítulo 78",
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9hrzng",
+          "isHost": true
+        },
+		{
+          "name": "Capítulo 79",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9ihnnc",
+          "isHost": true
+        },
+		{
+          "name": "Capítulo 80",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9iho4s",
           "isHost": true
         }
 	  ]
