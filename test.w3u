@@ -5274,7 +5274,8 @@
           "name": "Antes de ti",
           "image": "http://image.tmdb.org/t/p/w500/k7rVpfmFq1hlRiP5qAcK0jv08rj.jpg",
           "url": "https://listeamed.net/e/njJYOddyyZYOe9o",
-          "isHost": true
+          "embed": "true",
+          "playInNatPlayer": "false"
         },
 		{
           "name": "Mi lista de deseos",
