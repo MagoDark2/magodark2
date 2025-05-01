@@ -1009,6 +1009,12 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9ipha2",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 302",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9iryra",
+          "isHost": true
         }
 	  ]
     },
