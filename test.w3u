@@ -1015,6 +1015,12 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9iryra",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 303",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9ivlwo",
+          "isHost": true
         }
 	  ]
     },
@@ -1764,6 +1770,12 @@
           "name": "Capítulo 80",
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9iho4s",
+          "isHost": true
+        },
+		{
+          "name": "Capítulo 81",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9iv3ys",
           "isHost": true
         }
 	  ]
