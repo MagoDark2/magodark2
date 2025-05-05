@@ -1021,6 +1021,12 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9ivlwo",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 304",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9j0gdo",
+          "isHost": true
         }
 	  ]
     },
