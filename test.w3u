@@ -1027,6 +1027,12 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9j0gdo",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 305",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9j2e94",
+          "isHost": true
         }
 	  ]
     },
