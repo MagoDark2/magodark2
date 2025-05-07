@@ -5319,29 +5319,51 @@
       "image": "https://carnisima.com/cdn/shop/files/palomitassaladamicroondasecocarnisima3_1024x1024.jpg",
       "stations": [
 		{
-          "name": "Infiesto",
-          "image": "http://image.tmdb.org/t/p/w500/dmO2U0ckWkE6T5hyYY3rUtSH9X4.jpg",
-          "url": "https://bigwarp.art/vean51mnavoe",
-          "isHost": true
-        },
-		{
-          "name": "Antes de ti",
-          "image": "http://image.tmdb.org/t/p/w500/k7rVpfmFq1hlRiP5qAcK0jv08rj.jpg",
-          "url": "https://listeamed.net/e/njJYOddyyZYOe9o",
+          "name": "Amor al atardecer",
+          "image": "http://image.tmdb.org/t/p/w500/bpOrZGKbrdk9L0tfMk22o3zCkvz.jpg",
+          "url": "https://listeamed.net/e/Ro7kOVJVqGqOZWB",
           "embed": "true",
           "playInNatPlayer": "false"
         },
 		{
-          "name": "Mi lista de deseos",
-          "image": "http://image.tmdb.org/t/p/w500/r6K6spYEWf7aDGsY4EdkScZW1Hl.jpg",
-          "url": "https://bigwarp.art/d6odp2vxb6sv",
+          "name": "El secreto: Atrévete a soñar",
+          "image": "http://image.tmdb.org/t/p/w500/7QtYSwv8C6RSN7FkAHe2tp8Xqm6.jpg",
+          "url": "https://mixdrop.my/e/1vg0ww7ocze0wx",
+          "embed": "true",
+          "playInNatPlayer": "false"
+        },
+		{
+          "name": "Cómo escapar de Búfalo",
+          "image": "http://image.tmdb.org/t/p/w500/pWSWYYbJfCGjvIgO0nMTAjFk6Sk.jpg",
+          "url": "https://hqq.ac/watch_video.php?v=rilm6mkNlwea",
           "isHost": true
         },
 		{
-          "name": "La Dolce Villa",
-          "image": "http://image.tmdb.org/t/p/w500/cpB9cpEbdkLKbvtwRo2cVjst5GH.jpg",
-          "url": "https://bigwarp.art/kwwqwh380gox",
+          "name": "Sinceramente tuyo",
+          "image": "http://image.tmdb.org/t/p/w500/fDP6ZXSyYqGXVETLlNWd0bcnfrn.jpg",
+          "url": "https://hqq.ac/watch_video.php?v=MFnJHOvDwljV",
           "isHost": true
+        },
+		{
+          "name": "El laberinto del amor",
+          "image": "http://image.tmdb.org/t/p/w500/6WCT88z4TZOK1JXjXHc6jSORLVd.jpg",
+          "url": "http://stre4mplay.one/uugwj55qqbju",
+          "embed": "true",
+          "playInNatPlayer": "false"
+        },
+		{
+          "name": "Amor en Islandia",
+          "image": "http://image.tmdb.org/t/p/w500/6Ms64L6H4ffrjz6NwA6NAw1rGjZ.jpg",
+          "url": "https://go-streamer.net/e/Ro7kOVVQ0awOZWB",
+          "embed": "true",
+          "playInNatPlayer": "false"
+        },
+		{
+          "name": "Quisiera que alguien me esperara en algún lugar",
+          "image": "http://image.tmdb.org/t/p/w500/3vEQDAUD7dJGv5kUjcsmFuHsvsM.jpg",
+          "url": "https://go-streamer.net/e/Ro7kOVVQ0awOZWB",
+          "embed": "true",
+          "playInNatPlayer": "false"
         }
 	  ]
     }
