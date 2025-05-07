@@ -5336,13 +5336,15 @@
           "name": "Cómo escapar de Búfalo",
           "image": "http://image.tmdb.org/t/p/w500/pWSWYYbJfCGjvIgO0nMTAjFk6Sk.jpg",
           "url": "https://hqq.ac/watch_video.php?v=rilm6mkNlwea",
-          "isHost": true
+          "embed": "true",
+          "playInNatPlayer": "false"
         },
 		{
           "name": "Sinceramente tuyo",
           "image": "http://image.tmdb.org/t/p/w500/fDP6ZXSyYqGXVETLlNWd0bcnfrn.jpg",
           "url": "https://hqq.ac/watch_video.php?v=MFnJHOvDwljV",
-          "isHost": true
+          "embed": "true",
+          "playInNatPlayer": "false"
         },
 		{
           "name": "El laberinto del amor",
