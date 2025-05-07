@@ -4,6 +4,18 @@
   "image": "https://static.vecteezy.com/system/resources/previews/017/396/804/non_2x/netflix-mobile-application-logo-free-png.png",
   "url": "https://raw.githubusercontent.com/MagoDark2/magodark2/refs/heads/main/test.w3u",
   "groups": [
+	{
+      "name": "Una nueva vida",
+      "image": "http://image.tmdb.org/t/p/w500/zuBQbzobXatNvjlodo6trmxOVz.jpg",
+      "stations": [
+        {
+          "name": "Capítulo 35",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9izv92",
+          "isHost": true
+        }
+      ]
+	},
     {
       "name": "Regreso a Las Sabinas",
       "image": "http://image.tmdb.org/t/p/w500/4YMye0l9r8fkMAujHJRtxloLvSi.jpg",
@@ -1032,6 +1044,12 @@
           "name": "Capítulo 305",
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9j2e94",
+          "isHost": true
+        },
+		{
+          "name": "Capítulo 306",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9j4bve",
           "isHost": true
         }
 	  ]
