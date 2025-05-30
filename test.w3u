@@ -1123,6 +1123,12 @@
           "image": null,
           "url": "https://bigwarp.cc/o97rjxzfkm0t",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 323",
+          "image": null,
+          "url": "https://bigwarp.cc/m5zslszdvea9",
+          "isHost": true
         }
 	  ]
     },
@@ -1896,6 +1902,12 @@
           "name": "Capítulo 84",
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9k1s9c",
+          "isHost": true
+        },
+		{
+          "name": "Capítulo 85",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9kidpg",
           "isHost": true
         }
 	  ]
