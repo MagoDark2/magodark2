@@ -1211,7 +1211,13 @@
 		{
           "name": "Capítulo 337",
           "image": null,
-          "url": "https://geo.dailymotion.com/player.html?video=x9llyqc",
+          "url": "https://geo.dailymotion.com/player.html?video=x9ln5iw",
+          "isHost": true
+        },
+		{
+          "name": "Capítulo 338",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9lnjrk",
           "isHost": true
         }
 	  ]
