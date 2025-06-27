@@ -1237,6 +1237,18 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9lvpd6",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 342",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9lxusu",
+          "isHost": true
+        },
+		{
+          "name": "Capítulo 343",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9lzox8",
+          "isHost": true
         }
 	  ]
     },
