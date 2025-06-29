@@ -2035,6 +2035,18 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9kwxse",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 87",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9lqu3g",
+          "isHost": true
+        },
+		{
+          "name": "Capítulo 88",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9lqvh4",
+          "isHost": true
         }
 	  ]
     },
