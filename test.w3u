@@ -1247,7 +1247,13 @@
 		{
           "name": "Capítulo 343",
           "image": null,
-          "url": "https://geo.dailymotion.com/player.html?video=x9lzox8",
+          "url": "https://geo.dailymotion.com/player.html?video=x9m4ilw",
+          "isHost": true
+        },
+		{
+          "name": "Capítulo 344",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9m473a",
           "isHost": true
         }
 	  ]
