@@ -1255,6 +1255,12 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9m473a",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 345",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9m61q6",
+          "isHost": true
         }
 	  ]
     },
