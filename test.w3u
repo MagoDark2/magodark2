@@ -1393,6 +1393,12 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9o5h46",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 370",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9o7vu4",
+          "isHost": true
         }
 	  ]
     },
@@ -5755,4 +5761,5 @@
     }
   ]
 }
+
 
