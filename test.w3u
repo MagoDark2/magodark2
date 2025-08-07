@@ -1405,6 +1405,12 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9o9tuc",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 372",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9obzh2",
+          "isHost": true
         }
 	  ]
     },
@@ -5767,6 +5773,7 @@
     }
   ]
 }
+
 
 
 
