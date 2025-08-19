@@ -1447,6 +1447,12 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9p004m",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 379",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9p2hpk",
+          "isHost": true
         }
 	  ]
     },
@@ -5809,6 +5815,7 @@
     }
   ]
 }
+
 
 
 
