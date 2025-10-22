@@ -1717,6 +1717,18 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9segvu",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 424",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9sg90g",
+          "isHost": true
+        },
+		{
+          "name": "Capítulo 425",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9siiik",
+          "isHost": true
         }
 	  ]
     },
@@ -6079,6 +6091,7 @@
     }
   ]
 }
+
 
 
 
