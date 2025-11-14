@@ -1825,6 +1825,12 @@
           "image": null,
           "url": "https://geo.dailymotion.com/player.html?video=x9tq5j6",
           "isHost": true
+        },
+		{
+          "name": "Capítulo 442",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9tsp04",
+          "isHost": true
         }
 	  ]
     },
@@ -6187,6 +6193,7 @@
     }
   ]
 }
+
 
 
 
