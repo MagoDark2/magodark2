@@ -2033,7 +2033,13 @@
 		{
           "name": "Capítulo 476",
           "image": null,
-          "url": "https://geo.dailymotion.com/player.html?video=x9x70ou",
+          "url": "https://geo.dailymotion.com/player.html?video=x9xab5q",
+          "isHost": true
+        },
+		{
+          "name": "Capítulo 477",
+          "image": null,
+          "url": "https://geo.dailymotion.com/player.html?video=x9xcytm",
           "isHost": true
         }
 	  ]
@@ -6397,6 +6403,7 @@
     }
   ]
 }
+
 
 
 
